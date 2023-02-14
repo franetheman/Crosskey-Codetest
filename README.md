@@ -2,7 +2,7 @@
 A repository containing a codetest
 
 # Hosting
-This project is currently hosted on the following ip:
+This project is currently hosted on the following address/ip:
 - http://16.170.224.156:443/
 
 Contact frans.sontag@hotmail.com should the link not function for some reason
