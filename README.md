@@ -5,6 +5,8 @@ A repository containing a codetest
 This project is currently hosted on the following ip:
 - http://16.170.224.156:443/
 
+Contact frans.sontag@hotmail.com should the link not function for some reason
+
 # Prerequisites
 - Java
 - Maven
