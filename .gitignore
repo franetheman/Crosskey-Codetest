@@ -1,7 +1,7 @@
 node_modules
 HELP.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
@@ -39,6 +39,7 @@ mvnw
 mvnw.cmd
 
 ### Other ###
+frontend/
 tsconfig.json
 types.d.ts
 vite.config.ts
