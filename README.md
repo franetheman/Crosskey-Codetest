@@ -1,6 +1,10 @@
 # Crosskey-Codetest
 A repository containing a codetest
 
+# Hosting
+This project is currently hosted on the following ip:
+- http://16.170.224.156:443/
+
 # Prerequisites
 - Java
 - Maven
