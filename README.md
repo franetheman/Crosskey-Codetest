@@ -3,9 +3,15 @@ A repository containing a codetest
 
 # Hosting
 This project is currently hosted on the following address/ip:
+
 - http://16.170.224.156:443/
 
 Contact frans.sontag@hotmail.com should the link not function for some reason
+
+### Value formats when entering numeric data
+- Interest% per month: Percentage, not decimal form
+- Total loan: loan in euros
+- Nr. of years: an integer value for the number of years
 
 # Prerequisites
 - Java
@@ -27,7 +33,7 @@ cd (path to dir)
 git clone (url)
 cd (path to new dir)
 mvn install -Pproduction
-docker build --tag=codetest:latest
+docker build --tag=codetest:latest .
 ```
 
 The project has now been built.
